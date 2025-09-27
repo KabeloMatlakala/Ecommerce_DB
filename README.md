@@ -1,4 +1,4 @@
-# 🛍️ PLP_Ecommerce Database
+# 🛍️ Ecommerce Database
 
 This repository contains the SQL schema and Entity Relationship Diagram (ERD) for **PLP_Ecommerce**, a scalable and modular database design tailored for an e-commerce platform. The design supports product management, variations, attributes, and inventory tracking for a modern product listing page (PLP) system.
 
@@ -8,9 +8,9 @@ This repository contains the SQL schema and Entity Relationship Diagram (ERD) fo
 
 | File | Description |
 |------|-------------|
-| `plp_ecommerce.sql` | Full SQL script to create the database schema. Includes all tables, relationships, and constraints. |
-| `plp_ecommerce_ERD.png` | PNG image of the Entity Relationship Diagram for quick visual reference. |
-| `plp_ecommerce_ERD.drawio` | Editable ERD file (open with [draw.io / diagrams.net](https://app.diagrams.net)) for future modifications. |
+| `ecommerce.sql` | Full SQL script to create the database schema. Includes all tables, relationships, and constraints. |
+| `ecommerce_ERD.png` | PNG image of the Entity Relationship Diagram for quick visual reference. |
+| `ecommerce_ERD.drawio` | Editable ERD file (open with [draw.io / diagrams.net](https://app.diagrams.net)) for future modifications. |
 
 ---
 
@@ -69,8 +69,8 @@ You can set up and visualize the database using **XAMPP** or **MySQL Workbench**
 
 For easy customization and sharing, the ERD is also provided in draw.io format:
 
-- Open `plp_ecommerce_ERD.drawio` in [draw.io](https://app.diagrams.net)
-- Or view the exported image: `plp_ecommerce_ERD.png`
+- Open `ecommerce_ERD.drawio` in [draw.io](https://app.diagrams.net)
+- Or view the exported image: `ecommerce_ERD.png`
 
 ---
 
@@ -79,7 +79,7 @@ For easy customization and sharing, the ERD is also provided in draw.io format:
 **Kabelo Peter Matlakala**  
 📍 Polokwane, South Africa  
 📧 [matlakalakabelo1@gmail.com](mailto:matlakalakabelo1@gmail.com)  
-🌐 [Portfolio](https://delightplus.github.io/)  
+🌐 [Portfolio](https://KabeloMatlakala.github.io/)  
 💻 [GitHub](https://github.com/KabeloMatlakala)
 
 ---
